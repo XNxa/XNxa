@@ -1,6 +1,11 @@
-## Hi there 👋
+## XNxa
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XNxa&layout=compact)
+<a href="https://github.com/XNxa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XNxa" />
+</a>
+<a href="https://github.com/XNxa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNxa&exclude_repo=Projet-Opti&langs_count=6&hide=html,css,freemarker&layout=compact" />
+</a>
 
 <!--
 **XNxa/XNxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
