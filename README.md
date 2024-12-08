@@ -1,7 +1,4 @@
 <a href="https://github.com/XNxa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XNxa" />
-</a>
-<a href="https://github.com/XNxa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNxa&exclude_repo=Projet-Opti&langs_count=6&hide=html,css,freemarker&layout=compact" />
 </a>
 
